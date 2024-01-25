@@ -1,1 +1,3 @@
 From japan I wrote something in the text file
+
+This is a second line from Japan, sorry for the delay!
